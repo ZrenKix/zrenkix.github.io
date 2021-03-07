@@ -1,0 +1,14 @@
+Package: zrenkix.github.io
+Name: ZrenKix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Test package
+Maintainer: <zrenkix@gmail.com>
+Author: <zrenkix@gmail.com>
+Section: Tweak
+Depends: 
+Filename: 
+Size: 0
+MD5sum: 
+SHA1: 
+SHA256: 
