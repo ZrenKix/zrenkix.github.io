@@ -16,9 +16,22 @@
       "tintColor": "5a605c",
       "size": 35483648,
       "screenshotURLs": [
-        "",
-        ""
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/unc0ver/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/unc0ver/screen2.png"
       ]
+    },
+    {
+      "title": "Play old Classic Again!",
+      "identifier": "News_Change_2",
+      "caption": "iNDS is a great Nintendo DS Emulator for iOS devices",
+      "tintColor": "f36409",
+      "imageURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/iNDS/news.png",
+      "appID": "net.nerd.iNDS-true",
+      "date": "2020-03-08",
+      "notify": false
     }
-  ]
+  ],
+  "userInfo": {
+
+  }
 }
