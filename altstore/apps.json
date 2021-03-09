@@ -6,18 +6,35 @@
       "name": "unc0ver",
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd & Sam Bingner",
-      "subtitle": "unlock the power of you're device",
-      "version": "4.3.1",
-      "versionDate": "2020-03-24T14:30:00-07:00",
-      "versionDescription": "Made the following changes for the substitute code substitutor:\n\n• Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\n• Add support for rebooting the userspace for the first time in a jailbreak\n• Add support for injecting to the entire userspace\n• Add support for looking up or registering services from the sandbox with the cy: prefix for developers\n• Reboot the userspace after jailbreaking\n• Make major design changes to preserve stock system performance\n• Fix random reboots, freezes, memory issues and any known problem that affected system services or apps\n• Fix persistent software update blocker on iOS 13 (Works in the jailed state too)\n• Fix a design problem that affected the Succession restore tool\n• Automatically re-enable software updates when restoring RootFS",
+      "subtitle": "Unlock the power of your device",
+      "version": "6.1.1",
+      "versionDate": "2021-03-06",
+      "versionDescription": "•Make Xcode debugging work on iOS 14 by patching an Apple bug that caused it to break after rebooting userspace",
       "downloadURL": "https://unc0ver.dev/downloads/6.1.1/decf7c36cc08118dc83ba455f8ca42e0e3cf354c/unc0ver_Release_6.1.1.ipa?raw=true",
-      "localizedDescription": "Unlock the True Power of you're iDevice. unc0ver is the most most advanced jailbreak tool yet for iOS 11 - 13.3 A7-A13! ",
+      "localizedDescription": "Unlock the True Power of your iDevice.",
       "iconURL": "https://zrenkix.github.io/altstore/apps/unc0ver/img/icon.png",
       "tintColor": "5a605c",
       "size": 35483648,
       "screenshotURLs": [
         "https://zrenkix.github.io/altstore/apps/unc0ver/img/screen1.png",
         "https://zrenkix.github.io/altstore/apps/unc0ver/img/screen2.png"
+      ]
+    },
+    {
+      "name": "osu!",
+      "bundleIdentifier": "com.axiel7.osu",
+      "developerName": "Dean Herbert",
+      "subtitle": "Rythm game",
+      "version": "0.1.0",
+      "versionDate": "2021-03-9",
+      "versionDescription": "First realese of osu! for ios",
+      "downloadURL": "https://zrenkix.github.io/altstore/apps/osu!/osu.ipa?raw=true",
+      "localizedDescription": "Play one of the most popular rythm games on your iDevice!",
+      "iconURL": "https://zrenkix.github.io/altstore/apps/osu!/img/icon.png",
+      "tintColor": "e75480",
+      "size": 135548597,
+      "screenshotURLs": [
+        "https://zrenkix.github.io/altstore/apps/osu!/img/screen1.png"
       ]
     }
   ],
