@@ -26,7 +26,7 @@
       "developerName": "Dean Herbert",
       "subtitle": "Rythm game",
       "version": "0.1.0",
-      "versionDate": "2021-03-9",
+      "versionDate": "2021-03-09",
       "versionDescription": "First realese of osu! for ios",
       "downloadURL": "https://zrenkix.github.io/altstore/apps/osu!/osu.ipa?raw=true",
       "localizedDescription": "Play one of the most popular rythm games on your iDevice!",
@@ -35,6 +35,23 @@
       "size": 135548597,
       "screenshotURLs": [
         "https://zrenkix.github.io/altstore/apps/osu!/img/screen1.png"
+      ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "Torrent application",
+      "version": "1.8.3",
+      "versionDate": "2020-09-20",
+      "versionDescription": "•Patreon fix on iOS 14\n•Libtorrent updated to 1.2.10",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa?raw=true",
+      "localizedDescription": "Download torrents on iDevice.",
+      "iconURL": "https://zrenkix.github.io/altstore/apps/osu!/img/icon.png",
+      "tintColor": "cc0000",
+      "size": 21247865,
+      "screenshotURLs": [
+        "https://zrenkix.github.io/altstore/apps/itorrent/img/screen1.png"
       ]
     }
   ],
