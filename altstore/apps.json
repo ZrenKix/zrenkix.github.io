@@ -47,7 +47,7 @@
       "versionDescription": "•Patreon fix on iOS 14\n•Libtorrent updated to 1.2.10",
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa?raw=true",
       "localizedDescription": "Download torrents on iDevice.",
-      "iconURL": "https://zrenkix.github.io/altstore/apps/osu!/img/icon.png",
+      "iconURL": "https://zrenkix.github.io/altstore/apps/itorrent/img/icon.png",
       "tintColor": "cc0000",
       "size": 21247865,
       "screenshotURLs": [
