@@ -1,15 +1,53 @@
+/* Style for everything */
 *{
 	margin: 0;
 	padding: 0;
 	font-family: sans-serif;
 	box-sizing: border-box;
-	color: #1B1B1B;
+	color: #f1f1f1;
 }
+/* Fixes hight */
 html, body{
   height: 100%;
 }
+/* Content */
 body{
 	width: 100%;
 	height: 100%;
 	background: linear-gradient(to bottom right, #d6f8ff 14%, #662eff 100%);
+	display: flex;
+	justify-content: center;
 }
+body .container{
+	height: 100%;
+	width: 70%;
+	overflow: hidden;
+	background-color: rgba(10, 55, 255, 0.24);
+	position: absolute;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.11),
+						0 1px 1px rgba(0,0,0,0.11),
+						0 2px 2px rgba(0,0,0,0.11),
+						0 2px 2px rgba(0,0,0,0.11), 
+						0 4px 4px rgba(0,0,0,0.11), 
+						0 4px 4px rgba(0,0,0,0.11), 
+						0 8px 8px rgba(0,0,0,0.11), 
+						0 8px 8px rgba(0,0,0,0.11), 
+						0 16px 16px rgba(0,0,0,0.11),
+						0 16px 16px rgba(0,0,0,0.11), 
+						0 32px 32px rgba(0,0,0,0.11),
+						0 32px 32px rgba(0,0,0,0.11);
+}
+/* Menu */
+header{
+	z-index: 1;
+	height: 5%;
+	width: 70%;
+	display: flex;
+	justify-content: center;
+}
+header ul li{
+	list-style: none;
+	float: left;
+	box-sizing: border-box;
+}
+/* Footer */
