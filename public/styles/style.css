@@ -14,7 +14,7 @@ html, body{
 body{
 	width: 100%;
 	height: 100%;
-	background: linear-gradient(to bottom right, #d6f8ff 14%, #662eff 100%);
+	background: linear-gradient(to bottom right, #555555 14%, #321679 100%);
 	display: flex;
 	justify-content: center;
 }
@@ -22,7 +22,7 @@ body .container{
 	height: 100%;
 	width: 70%;
 	overflow: hidden;
-	background-color: rgba(10, 55, 255, 0.24);
+	background-color: rgba(0, 0, 0, 0.404);
 	position: absolute;
 	box-shadow: 0 1px 1px rgba(0,0,0,0.11),
 						0 1px 1px rgba(0,0,0,0.11),
